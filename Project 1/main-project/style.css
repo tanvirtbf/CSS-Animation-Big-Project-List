@@ -33,3 +33,11 @@ video{
   object-fit: cover;
   position: fixed;
 }
+#main{
+  position: relative;
+  background-color: rgba(0, 0, 0, 0.326 );
+}
+#page1{
+  height: 100vh;
+  width: 100vw;
+}
